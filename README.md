@@ -22,7 +22,7 @@ The following comparison illustrates the performance of our Consensus Directiona
 
 <img width="2645" height="2250" alt="cdmr(1)" src="https://github.com/user-attachments/assets/5f666abb-2f05-4a3c-8624-e9bc43eeb7ce" />
 
-)
+
 *Figure 1: Feature matching comparison. Our method reliably extracts consensus inliers despite extreme illumination and severe rotation, outperforming standard MAGSAC-based pipelines in low-inlier scenarios.*
 
 ---
