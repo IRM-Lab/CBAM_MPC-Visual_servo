@@ -20,8 +20,8 @@ Visual servoing in complex environments often fails due to feature matching degr
 
 The following comparison illustrates the performance of our Consensus Directional Matching and Rotation Prior (CDMR) framework against baseline methods under challenging conditions (strong light interference and large rotational viewpoints).
 
-*(请在此处放入你的特征匹配对比图)*
-![Feature Matching Comparison Under Extreme Conditions](assets/你的匹配对比图文件名.png<img width="2645" height="2250" alt="cdmr(1)" src="https://github.com/user-attachments/assets/5f666abb-2f05-4a3c-8624-e9bc43eeb7ce" />
+#*(请在此处放入你的特征匹配对比图)*
+<img width="2645" height="2250" alt="cdmr(1)" src="https://github.com/user-attachments/assets/5f666abb-2f05-4a3c-8624-e9bc43eeb7ce" />
 
 )
 *Figure 1: Feature matching comparison. Our method reliably extracts consensus inliers despite extreme illumination and severe rotation, outperforming standard RANSAC-based pipelines in low-inlier scenarios.*
