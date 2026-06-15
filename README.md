@@ -31,7 +31,6 @@ The following comparison illustrates the performance of our Consensus Directiona
 
 The video below demonstrates the closed-loop MPC visual servoing system in action. Notice the smooth and safe control responses even when visual observations are heavily corrupted.
 
-*(请在此处放入你的系统运行录屏或实验视频)*
 <video src="assets/你的伺服实验视频文件名.mp4" controls width="100%"></video>
 <img width="240" height="346" alt="HnVideoEditor_2026_06_15_123004970" src="https://github.com/user-attachments/assets/5d2e1d2c-2a5c-4f83-8ddf-ca1be144ebdd" />
 
