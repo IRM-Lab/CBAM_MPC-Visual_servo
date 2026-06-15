@@ -20,11 +20,10 @@ Visual servoing in complex environments often fails due to feature matching degr
 
 The following comparison illustrates the performance of our Consensus Directional Matching and Rotation Prior (CDMR) framework against baseline methods under challenging conditions (strong light interference and large rotational viewpoints).
 
-#*(请在此处放入你的特征匹配对比图)*
 <img width="2645" height="2250" alt="cdmr(1)" src="https://github.com/user-attachments/assets/5f666abb-2f05-4a3c-8624-e9bc43eeb7ce" />
 
 )
-*Figure 1: Feature matching comparison. Our method reliably extracts consensus inliers despite extreme illumination and severe rotation, outperforming standard RANSAC-based pipelines in low-inlier scenarios.*
+*Figure 1: Feature matching comparison. Our method reliably extracts consensus inliers despite extreme illumination and severe rotation, outperforming standard MAGSAC-based pipelines in low-inlier scenarios.*
 
 ---
 
@@ -34,6 +33,9 @@ The video below demonstrates the closed-loop MPC visual servoing system in actio
 
 *(请在此处放入你的系统运行录屏或实验视频)*
 <video src="assets/你的伺服实验视频文件名.mp4" controls width="100%"></video>
+<img width="240" height="346" alt="HnVideoEditor_2026_06_15_123004970" src="https://github.com/user-attachments/assets/5d2e1d2c-2a5c-4f83-8ddf-ca1be144ebdd" />
+
+
 
 ---
 
